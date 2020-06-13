@@ -31,7 +31,7 @@ public class AUDIOLIBShooting
     void library()
     {
         // Audio Checks
-        if (_ActiveAudioSource + 1 > _ASources.length) // Check if int is overboard
+        if (_ActiveAudioSource + 1 > _ASources.Length) // Check if int is overboard
         {
             _ActiveAudioSource = 0;
         }
