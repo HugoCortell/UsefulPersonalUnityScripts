@@ -1,5 +1,6 @@
 # Audacity Macros
 My personal list of audacity macros.
+You can import/export macros at ``C:\Users\YOURNAME\AppData\Roaming\audacity\Macros``
 
 ## Robot Voice
 ### Main Track (Apply this to the original track, then copy the result to the new track)
