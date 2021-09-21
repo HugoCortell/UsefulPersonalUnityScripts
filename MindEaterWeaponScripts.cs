@@ -1,3 +1,6 @@
+// To whoever reads this. By removing the word "fuck" from one of my comments, I managed to break all my code.
+// Nothing works anymore. Yet I get no errors. I hope you are happy, because I am not.
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
