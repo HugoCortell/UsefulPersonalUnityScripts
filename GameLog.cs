@@ -1,3 +1,5 @@
+// You can call this from any other file without a refernece to it by using GameLog.Instance.Log("Hello World");
+
 using System.IO;
 using UnityEngine;
 
